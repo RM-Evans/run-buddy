@@ -43,7 +43,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  margin: 0 30px;
+  padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
 }
@@ -83,6 +83,7 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 .hero-cta {
   width: 35%;
@@ -90,7 +91,7 @@ section {
   margin: 3.5%;
   color: #fff;
   font-size: 18px;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .hero-cta h2 {
@@ -143,7 +144,7 @@ h3 {
 }
 
 .section-title {
-  font-size: 55px;
+  font-size: 48px;
   color: #024e76;
   border-bottom: 3px solid;
   padding-bottom: 20px;
@@ -343,3 +344,25 @@ h3 {
   }
 
 /* privacy policy page */
+
+
+/*-----Media Query-----*/
+
+/* smaller desktop screens and smaller */
+
+@media screen and (max-width: 980px) {
+
+}
+
+/* Tablets and Smaller */
+
+@media screen and (max-width: 768px) {
+
+}
+
+/* Mobile phones and smaller */
+
+@media screen and (max-width: 575px) {
+
+}
+
