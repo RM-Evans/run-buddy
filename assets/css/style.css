@@ -430,7 +430,7 @@ h3 {
   .contact-form button {
     width: 100%;
     border: none;
-    background: var(--primary-color)8;
+    background: var(--primary-color);
     color: var(--secondary-color);
     text-align: center;
     padding: 15px 0;
